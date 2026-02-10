@@ -13,7 +13,7 @@ This site serves as a comprehensive resource for understanding how tornado track
 
 | General Information | Learning Goals |
 |---|---|
-| ![General Info](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_General%20Information.html.png) | ![Goals](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_Learning%20Goals.html.png) |
+| ![General Info](https://github.com/AnthonyWernsing/HTML-CSS-Tornado-Website/blob/main/Screenshots/_E__Coding_MooreTornadoProject%25204_MooreTornadoProject_General%2520Information.html.png) | ![Goals](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_Learning%20Goals.html.png) |
 
 | 1999 Moore Analysis | Project Analysis |
 |---|---|
