@@ -1,0 +1,34 @@
+/* Seperate sheet to store all CSS functions*/
+/* All body fuctions contain this*/
+body {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Div class to display text in center of the screen*/
+.center {
+    text-align: center;
+}
+
+/* White class that can be added after ul in order to add a white background*/
+.white {
+    background-color: white;
+}
+
+/* A div class that creates a white line background with text in the center*/
+.white_center {
+    background-color: white;
+    text-align: center;
+}
+
+/* Create a white text div class*/
+.white_text{
+    color: white;
+}
+
+/* Create a white text color with center alligned text div class*/
+.white_center_text{
+    color: white;
+    text-align: center;
+}
