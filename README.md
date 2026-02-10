@@ -5,27 +5,30 @@ An educational multi-page website exploring the evolution of tornado detection t
 ## 🌪️ About the Project
 This site serves as a comprehensive resource for understanding how tornado tracking has evolved over time. It compares major historical events—specifically the 1999 and 2013 Moore tornadoes—to showcase how technological shifts have impacted storm analysis and emergency response.
 
+## 📸 Site Gallery
+| Home Page | 2013 Moore Analysis |
+|---|---|
+| ![Home Page](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_Index.html.png) | ![2013 Moore](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_Moore2013.html.png) |
+
+| General Information | Learning Goals |
+|---|---|
+| ![General Info](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_General%20Information.html.png) | ![Goals](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_Learning%20Goals.html.png) |
+
 ### Core Sections
-* **[Learning Goals](Learning%20Goals.html)**: An overview of the educational objectives of this study.
-* **[General Information](General%20Information.html)**: Background data on tornado formation and detection technology.
-* **[1999 Moore Tornado](Moore1999.html)**: A deep dive into the May 3, 1999, F5 tornado event.
-* **[2013 Moore Tornado](Moore2013.html)**: Analysis of the May 20, 2013, EF5 tornado and its impact.
-* **[Project Goals Reflection](Project%20Analysis.html)**: Personal insights and reflections on the project's development.
-* **[Work Cited](WorkCited.html)**: Full list of academic and meteorological sources used in the project.
+* **[Learning Goals](Learning%20Goals.html)**: An overview of the educational objectives.
+* **[General Information](General%20Information.html)**: Background data on tornado formation.
+* **[1999 Moore Tornado](Moore1999.html)**: Deep dive into the May 3, 1999 event.
+* **[2013 Moore Tornado](Moore2013.html)**: Analysis of the May 20, 2013 event.
+* **[Project Analysis](Project%20Analysis.html)**: Personal insights and reflections.
 
 ## 🛠️ Built With
-* **HTML5** - Structured content for a multi-page experience.
-* **CSS3** - Custom styling, featuring an immersive background image of the 2013 Moore tornado.
-
-## 🚀 How to View
-1. Clone or download the repository.
-2. Open **`Index.html`** in your preferred web browser to access the home page and navigation hub.
+* **HTML5** & **CSS3** - Developed entirely by Anthony Wernsing.
 
 ## 👥 Team & Roles
 * **Anthony Wernsing** - Lead Web Developer & UI Designer
 * **David Connelly** - Lead Researcher & Content Strategist
 * **Nathan Pikula** - Lead Researcher & Content Strategist
 
-## 📸 Screenshots
-
-![Home Page](screenshots/home.png) | ![1999 Moore](screenshots/1999.png)
+## 🚀 How to View
+1. Clone or download the repository.
+2. Open **`Index.html`** in your preferred web browser.
