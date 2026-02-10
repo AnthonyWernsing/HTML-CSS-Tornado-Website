@@ -9,19 +9,19 @@ This site serves as a comprehensive resource for understanding how tornado track
 
 | Home Page | 2013 Moore Analysis |
 |---|---|
-| ![Home Page](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_Index.html.png) | ![2013 Moore](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_Moore2013.html.png) |
+| ![Home Page](https://github.com/AnthonyWernsing/HTML-CSS-Tornado-Website/blob/main/Screenshots/_E__Coding_MooreTornadoProject%25204_MooreTornadoProject_Index.html.png) | ![2013 Moore](https://github.com/AnthonyWernsing/HTML-CSS-Tornado-Website/blob/main/Screenshots/_E__Coding_MooreTornadoProject%25204_MooreTornadoProject_Moore2013.html.png) |
 
 | General Information | Learning Goals |
 |---|---|
-| ![General Info](https://github.com/AnthonyWernsing/HTML-CSS-Tornado-Website/blob/main/Screenshots/_E__Coding_MooreTornadoProject%25204_MooreTornadoProject_General%2520Information.html.png) | ![Goals](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_Learning%20Goals.html.png) |
+| ![General Info](https://github.com/AnthonyWernsing/HTML-CSS-Tornado-Website/blob/main/Screenshots/_E__Coding_MooreTornadoProject%25204_MooreTornadoProject_General%2520Information.html.png) | ![Goals](https://github.com/AnthonyWernsing/HTML-CSS-Tornado-Website/blob/main/Screenshots/_E__Coding_MooreTornadoProject%25204_MooreTornadoProject_Learning%2520Goals.html.png) |
 
 | 1999 Moore Analysis | Project Analysis |
 |---|---|
-| ![1999 Moore](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_Moore1999.html.png) | ![Project Analysis](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_Project%20Analysis.html.png) |
+| ![1999 Moore](https://github.com/AnthonyWernsing/HTML-CSS-Tornado-Website/blob/main/Screenshots/_E__Coding_MooreTornadoProject%25204_MooreTornadoProject_Moore1999.html.png) | ![Project Analysis](https://github.com/AnthonyWernsing/HTML-CSS-Tornado-Website/blob/main/Screenshots/_E__Coding_MooreTornadoProject%25204_MooreTornadoProject_Project%2520Analysis.html.png) |
 
 | Work Cited |
 |---|
-| ![Work Cited](Screenshots/_E__Coding_MooreTornadoProject%204_MooreTornadoProject_WorkCited.html.png) |
+| ![Work Cited](https://github.com/AnthonyWernsing/HTML-CSS-Tornado-Website/blob/main/Screenshots/_E__Coding_MooreTornadoProject%25204_MooreTornadoProject_WorkCited.html.png) |
 
 ## 🛠️ Built With
 * **HTML5** & **CSS3** - Developed entirely by Anthony Wernsing.
